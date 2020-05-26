@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/khaled/lab_kalmanfilter/devel:$CMAKE_PREFIX_PATH"
 export PWD="/home/khaled/lab_kalmanfilter/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/khaled/lab_kalmanfilter/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/khaled/lab_kalmanfilter/src:$ROS_PACKAGE_PATH"
