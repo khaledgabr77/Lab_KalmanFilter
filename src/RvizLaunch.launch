@@ -1,0 +1,4 @@
+<launch>
+  <!--RVIZ-->
+  <node pkg="rviz" type="rviz" name="rviz" args="-d /home/khaled/lab_kalmanfilter/src/EKFLab.rviz"/>
+</launch>
