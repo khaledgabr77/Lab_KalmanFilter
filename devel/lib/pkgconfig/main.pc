@@ -1,0 +1,8 @@
+prefix=/home/khaled/lab_kalmanfilter/devel
+
+Name: main
+Description: Description of main
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

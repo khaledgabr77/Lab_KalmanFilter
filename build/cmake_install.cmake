@@ -126,6 +126,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/khaled/lab_kalmanfilter/build/gtest/cmake_install.cmake")
+  include("/home/khaled/lab_kalmanfilter/build/main/cmake_install.cmake")
   include("/home/khaled/lab_kalmanfilter/build/turtlebot/turtlebot/cmake_install.cmake")
   include("/home/khaled/lab_kalmanfilter/build/turtlebot/turtlebot_bringup/cmake_install.cmake")
   include("/home/khaled/lab_kalmanfilter/build/turtlebot/turtlebot_capabilities/cmake_install.cmake")
